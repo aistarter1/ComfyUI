@@ -157,3 +157,7 @@ I wanted to learn how Stable Diffusion worked in detail. I also wanted something
 This is for anyone that wants to make complex workflows with SD or that wants to learn more how SD works. The interface follows closely how SD works and the code should be much more simple to understand than other SD UIs.
 
 ### test
+
+step1:
+
+
